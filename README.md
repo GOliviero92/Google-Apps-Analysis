@@ -1,8 +1,9 @@
 # Google-Apps-Analysis
 A data analysis project to clean, combine and analyze Google Store Apps data . The project is written in Jupyter Notebooks.
-[Google-Apps-Analysis](https://github.com/GOliviero92/Google-Apps-Analysis "data analysis") is a data analysis project to obtain, combine, clean, analyze the google store apps data. The project is written as jupyter notebooks.
+[Google-Apps-Analysis](https://github.com/GOliviero92/Google-Apps-Analysis "data analysis") is a data analysis project to obtain, combine, clean, analyze the google store apps data. The project is written as jupyter notebooks and should be run in the following order.
 
-* data_cleaning.ipynb
+* data_cleaning.ipynb (Cleaning Google Store Apps data)
+* data_analysis.ipynb (Analysing Google Store Apps data)
 * ML analysis (TODO)
 * Sentiment analysis (TODO)
 
