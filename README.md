@@ -12,6 +12,7 @@ The selected analysis results are presented below.
 <p float="left">
   <img src="data/heatmap.png">
 </p>
+
 * Percentage distributions of selected categorical features:
 <p float="left">
   <img src="data/pie.png">
