@@ -10,11 +10,11 @@
 The selected analysis results are presented below.
 * Correlation heatmap of numerical features:
 <p float="left">
-  <img src="data/heatmap.png" height="260">
+  <img src="data/heatmap.png">
 </p>
 * Percentage distributions of selected categorical features:
 <p float="left">
-  <img src="data/pie.png" height="260">
+  <img src="data/pie.png">
 </p>
 
 ### References
