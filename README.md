@@ -18,5 +18,15 @@ The selected analysis results are presented below.
   <img src="data/pie.png">
 </p>
 
+* Distributions of installs update month:
+<p float="left">
+  <img src="data/box_update.png">
+</p>
+
+* Distributions of rating and installs by content rating category:
+<p float="left">
+  <img src="data/content.png">
+</p>
+
 ### References
 [1] Lavanya Gupta, [Google Play Store Apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps), (2022)
